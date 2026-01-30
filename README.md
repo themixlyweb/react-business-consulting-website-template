@@ -141,10 +141,7 @@ You may use this version for personal and educational purposes.</p>
   <li>👉  Access the Complete Edition – Crafted for You on <a href="https://themixly.com/" target="_blank">Themixly</a></li>
 </ul>
 
-<h2>🔗 Other Templates You May Like</h2>
-<ul>
-  <li><a href="https://themixly.com/themes" target="_blank">Browse Our Website Templates</a></li>
-</ul>
+
 <p>🔗 Explore More Templates → <a href="https://themixly.com/themes" target="_blank">Themixly Themes</a></p>
 
 <h2>🧾 Contact Us</h2>
